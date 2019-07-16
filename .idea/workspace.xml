@@ -85,7 +85,6 @@
           </provider>
         </entry>
       </file>
- master
     </leaf>
   </component>
   <component name="Git.Settings">
@@ -95,14 +94,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/features/Sofia.feature" />
       </list>
-    </option>
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
     </option>
   </component>
   <component name="MavenProjectNavigator">
@@ -117,6 +110,12 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1782" />
+    <option name="height" value="1005" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -137,7 +136,14 @@
               <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-
+              <item name="GitHubTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GitHubTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GitHubTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GitHubTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -168,6 +174,12 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -221,7 +233,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-
+    <frame x="0" y="23" width="1440" height="797" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -283,7 +298,6 @@
         </state>
       </provider>
     </entry>
-master
   </component>
   <component name="masterDetails">
     <states>
@@ -336,12 +350,3 @@ master
     </states>
   </component>
 </project>
-Collapse
-
-
-
-
-Message Input
-
-
-Message #announcements
