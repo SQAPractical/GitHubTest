@@ -7,7 +7,7 @@
     and create remote copy
     `git push --set-upstream origin name_of_your_branch`
     The name of your local branch must match the name of your remote branch.
-        Example (You can see in terminal):
+        Example (You can s ee in terminal):
         `* [new branch]      nik -> nik`
 
 2. Type `git branch` to verify that you created the branch
