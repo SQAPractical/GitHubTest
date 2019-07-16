@@ -18,7 +18,7 @@
 
 4. Run `git status` - your changes will appear in red
 
-5. Add ALL your changes to staging by typing `git add .`
+5. Add ALL your changes to staging by typing `git add .`git checkout
 
     OR
 
