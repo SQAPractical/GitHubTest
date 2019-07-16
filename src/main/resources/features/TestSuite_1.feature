@@ -1,7 +1,7 @@
 Feature: first
 
   @Regression
-  Scenario: Log In - valid email
+  Scenario: Logig In - valid email
     Given Navigate to login page
     When Type email "qa.sofi@gmail.com"
     Then Type Password "12345"
