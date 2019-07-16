@@ -85,6 +85,7 @@
           </provider>
         </entry>
       </file>
+ master
     </leaf>
   </component>
   <component name="Git.Settings">
@@ -94,8 +95,14 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/resources/features/Sofia.feature" />
       </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
     </option>
   </component>
   <component name="MavenProjectNavigator">
@@ -161,12 +168,6 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -282,6 +283,7 @@
         </state>
       </provider>
     </entry>
+master
   </component>
   <component name="masterDetails">
     <states>
