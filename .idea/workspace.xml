@@ -33,8 +33,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-            </state>
-          </provider>
         </entry>
       </file>
     </leaf>
@@ -74,28 +72,27 @@
         <subPane>
           <expand>
             <path>
-              <item name="GitHubTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GitHubTest" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="GitHubTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GitHubTest" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GitHubTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GitHubTest" type="462c0819:PsiDirectoryNode" />
+              <item name="GitHubTest2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GitHubTest2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="GitHubTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GitHubTest" type="462c0819:PsiDirectoryNode" />
+              <item name="GitHubTest2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GitHubTest2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="features" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GitHubTest2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GitHubTest2" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -201,8 +198,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
-        </state>
-      </provider>
     </entry>
   </component>
   <component name="masterDetails">
