@@ -3,10 +3,10 @@ Feature: first
   @Regression
   Scenario: Log In - valid email
     Given Navigate to login page
-    When Type email "qa.sofi@gmail.com"
-    Then Type Password "12345"
+    When Type email "mayajkamath@gail.com "
+    Then Type Password "dd"
     And Push Sign In button
-    And Make sure user name is "Sofia"
+    And Make sure user name is "Maya"
 
   @Regression
   Scenario: Log In - invalid password
